@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416957450586",
+    "project_id": "flavor-prod-37cf9",
+    "storage_bucket": "flavor-prod-37cf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416957450586:android:5bb5cf36b8e2ee860d4b63",
+        "android_client_info": {
+          "package_name": "com.example.flavor.prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCD1QOMH7pJno6vJmG_5OPCgh1fIRO1ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
